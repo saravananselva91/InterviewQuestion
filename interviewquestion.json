@@ -1,16 +1,16 @@
-[{"Android":[
-    {"question":"John", "answer":"Doe"}, 
-    {"question":"Anna", "answer":"Smith"},
-    {"question":"Peter", "answer":"Jones"}
-]},
-{"Titanium":[
-    {"question":"John", "answer":"Doe"}, 
-    {"question":"Anna", "answer":"Smith"},
-    {"question":"Peter", "answer":"Jones"}
-]},
-{"Angularjs":[
-    {"question":"John", "answer":"Doe"}, 
-    {"question":"Anna", "answer":"Smith"},
-    {"question":"Peter", "answer":"Jones"}
-]}
-]
+{
+    "android": [
+        {
+            "question": "What is Android?",
+            "answer": "Android is an open-source, linux-based operating system that is used in mobiles, tablets, televisions etc"
+        },
+        {
+            "question": " Who is the founder of Android?",
+            "answer": "Andy Rubin."
+        },
+        {
+            "question": "What are the code names of android?",
+            "answer": "Aestro,Blender,Cupcake,Donut,Eclair,Froyo,Gingerbread,Honycomb,Ice Cream Sandwitch,Jelly Bean,Kitkat, Lollipop"
+        }
+    ]
+}
